@@ -8,3 +8,5 @@ A beginner Python tool that checks password strength.
 
 ## How to run
 python3 password_checker.py
+
+My first project while learning:)
